@@ -1,2 +1,6 @@
 git init
 Dieser Befehl erstellt ein lokales Git Repository.
+
+git add .
+
+git commit -m"Kommentar"
