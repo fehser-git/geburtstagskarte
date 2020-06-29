@@ -1,3 +1,5 @@
 handy
 raspberry
 fahrrad
+hemd
+hose
